@@ -1,0 +1,36 @@
+{
+  "author": "Yuki Akiyama <you2197901 [at] gmail.com>",
+  "name": "okcoin.com",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "ws" : "0.7.x",
+    "limit-request-promise" : ""
+  },
+  "readmeFilename": "README.md",
+  "description": "okcoin.com trade api for promise",
+  "main": "index.js",
+  "devDependencies": {
+    "moment" : "",
+    "bluebird" : "",
+    "mocha" : "",
+    "power-assert" : ""
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/you21979/node-okcoin.git"
+  },
+  "keywords": [
+    "trade api",
+    "bitcoin",
+    "future",
+    "okcoin"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/you21979/node-okcoin/issues"
+  }
+}
