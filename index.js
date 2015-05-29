@@ -1,2 +1,2 @@
 exports.Constant = require('./lib/constant');
-exports.PublicAPI = require('./lib/public_api');
+exports.PublicApi = require('./lib/public_api');
