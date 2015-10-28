@@ -1,4 +1,4 @@
-var okcoin = require('..');
+var okcoin = require('../..');
 var fs = require("fs");
 
 var CONFIG = JSON.parse(fs.readFileSync("./config.json", "utf8"));
