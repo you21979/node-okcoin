@@ -14,11 +14,24 @@ npm install okcoin.com
 
 see example directory
 
-## limit
+## request limit
+
+### okcoin request limit
 
 ```
 1. Request limits
 Each IP can send maximum of 3000 https requests within 5 minutes. If the 3000 limit is exceeded, the system will automatically block the IP for one hour. After that hour, the IP will be automatically unfrozen.
 ```
 
-* 3000 request / 300 sec = 10 request/sec
+* 3000 request / 5min
+* 600 request / min
+* 10 request / sec
+
+### node-okcoin request limit
+
+```
+lib/constant.js
+exports.OPT_LIMIT_SEC = 0.2;
+```
+
+* 5 request / sec
