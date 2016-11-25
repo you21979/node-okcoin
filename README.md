@@ -1,7 +1,7 @@
 # node-okcoin
 
 [![NPM](https://nodei.co/npm/okcoin.com.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/okcoin.com)  
-[![Build Status](https://secure.travis-ci.org/you21979/node-okcoin.png?branch=master)](https://travis-ci.org/you21979/node-okcoin)  
+[![Build Status](https://secure.travis-ci.org/you21979/node-okcoin.png?branch=master)](https://travis-ci.org/you21979/node-okcoin)
 [![Coverage Status](https://coveralls.io/repos/github/you21979/node-okcoin/badge.svg?branch=master)](https://coveralls.io/github/you21979/node-okcoin?branch=master)  
 
 ## apidoc
