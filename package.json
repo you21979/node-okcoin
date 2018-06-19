@@ -1,28 +1,26 @@
 {
   "author": "Yuki Akiyama <you2197901 [at] gmail.com>",
-  "name": "okcoin.com",
+  "name": "okex.com",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
-    "ws" : "1.1.x",
-    "bluebird" : "3.4.x",
-    "@you21979/object-util" : "0.0.x",
-    "@you21979/http-api-error" : "0.0.x",
-    "limit-request-promise" : "0.1.x",
+    "@you21979/object-util": "0.0.x",
+    "@you21979/http-api-error": "0.0.x",
+    "limit-request-promise": "0.1.x",
     "request": "^2.34"
   },
   "readmeFilename": "README.md",
-  "description": "Promise-base trade api for okcoin.com",
+  "description": "Promise-base trade api for okex.com",
   "main": "index.js",
   "devDependencies": {
-    "local-echoserver" : "",
-    "moment" : "",
-    "bluebird" : "",
-    "istanbul" : "",
-    "coveralls" : "",
-    "power-assert" : "",
-    "intelli-espower-loader" : "",
-    "mocha" : ""
+    "local-echoserver": "",
+    "moment": "",
+    "bluebird": "",
+    "istanbul": "",
+    "coveralls": "",
+    "power-assert": "",
+    "intelli-espower-loader": "",
+    "mocha": ""
   },
   "scripts": {
     "test": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha",
@@ -36,7 +34,7 @@
     "trade api",
     "bitcoin",
     "future",
-    "okcoin"
+    "okex"
   ],
   "license": "MIT",
   "bugs": {
