@@ -31,7 +31,7 @@ Each IP can send maximum of 3000 https requests within 5 minutes. If the 3000 li
 * 600 request / min
 * 10 request / sec
 
-### node-okcoin request limit
+### node-okex request limit
 
 ```
 lib/constant.js
