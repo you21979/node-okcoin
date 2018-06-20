@@ -1,4 +1,4 @@
-# node-okcoin
+# node-okex
 
 [![NPM](https://nodei.co/npm/okex.com.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/okex.com)  
 [![Build Status](https://secure.travis-ci.org/you21979/node-okcoin.png?branch=master)](https://travis-ci.org/you21979/node-okcoin)
