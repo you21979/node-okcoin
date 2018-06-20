@@ -1,17 +1,17 @@
 # node-okcoin
 
-[![NPM](https://nodei.co/npm/okcoin.com.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/okcoin.com)  
+[![NPM](https://nodei.co/npm/okex.com.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/okex.com)  
 [![Build Status](https://secure.travis-ci.org/you21979/node-okcoin.png?branch=master)](https://travis-ci.org/you21979/node-okcoin)
 [![Coverage Status](https://coveralls.io/repos/github/you21979/node-okcoin/badge.svg?branch=master)](https://coveralls.io/github/you21979/node-okcoin?branch=master)  
 
 ## apidoc
 
-* https://www.okcoin.com/about/rest_getStarted.do
+* https://github.com/okcoin-okex/API-docs-OKEx.com
 
 ## install
 
 ```
-npm install okcoin.com
+npm install okex.com
 ```
 
 ## sample code
@@ -20,7 +20,7 @@ see example directory
 
 ## request limit
 
-### okcoin request limit
+### okex request limit
 
 ```
 1. Request limits
